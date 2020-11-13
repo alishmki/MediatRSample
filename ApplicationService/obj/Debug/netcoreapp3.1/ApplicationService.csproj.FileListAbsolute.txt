@@ -1,0 +1,17 @@
+C:\Users\john\source\repos\MediatRSample\ApplicationService\bin\Debug\netcoreapp3.1\ApplicationService.deps.json
+C:\Users\john\source\repos\MediatRSample\ApplicationService\bin\Debug\netcoreapp3.1\ApplicationService.runtimeconfig.json
+C:\Users\john\source\repos\MediatRSample\ApplicationService\bin\Debug\netcoreapp3.1\ApplicationService.runtimeconfig.dev.json
+C:\Users\john\source\repos\MediatRSample\ApplicationService\bin\Debug\netcoreapp3.1\ApplicationService.dll
+C:\Users\john\source\repos\MediatRSample\ApplicationService\bin\Debug\netcoreapp3.1\ApplicationService.pdb
+C:\Users\john\source\repos\MediatRSample\ApplicationService\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\john\source\repos\MediatRSample\ApplicationService\bin\Debug\netcoreapp3.1\Infrastructure.dll
+C:\Users\john\source\repos\MediatRSample\ApplicationService\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\john\source\repos\MediatRSample\ApplicationService\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+C:\Users\john\source\repos\MediatRSample\ApplicationService\obj\Debug\netcoreapp3.1\ApplicationService.csprojAssemblyReference.cache
+C:\Users\john\source\repos\MediatRSample\ApplicationService\obj\Debug\netcoreapp3.1\ApplicationService.AssemblyInfoInputs.cache
+C:\Users\john\source\repos\MediatRSample\ApplicationService\obj\Debug\netcoreapp3.1\ApplicationService.AssemblyInfo.cs
+C:\Users\john\source\repos\MediatRSample\ApplicationService\obj\Debug\netcoreapp3.1\ApplicationService.csproj.CoreCompileInputs.cache
+C:\Users\john\source\repos\MediatRSample\ApplicationService\obj\Debug\netcoreapp3.1\ApplicationService.csproj.CopyComplete
+C:\Users\john\source\repos\MediatRSample\ApplicationService\obj\Debug\netcoreapp3.1\ApplicationService.dll
+C:\Users\john\source\repos\MediatRSample\ApplicationService\obj\Debug\netcoreapp3.1\ApplicationService.pdb
+C:\Users\john\source\repos\MediatRSample\ApplicationService\obj\Debug\netcoreapp3.1\ApplicationService.genruntimeconfig.cache
